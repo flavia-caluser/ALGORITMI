@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07180f16-efd3-408f-9854-c916aa3776fc" name="Changes" comment="add changes" />
+    <list default="true" id="07180f16-efd3-408f-9854-c916aa3776fc" name="Changes" comment="add changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SDA1/Ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SDA1/Ex7.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -59,6 +65,11 @@
       <workItem from="1698176972335" duration="6270000" />
       <workItem from="1698224717236" duration="1089000" />
       <workItem from="1698226767158" duration="444000" />
+      <workItem from="1698229148836" duration="875000" />
+      <workItem from="1698231717874" duration="262000" />
+      <workItem from="1698232033298" duration="595000" />
+      <workItem from="1698269915812" duration="569000" />
+      <workItem from="1698472155377" duration="567000" />
     </task>
     <task id="LOCAL-00001" summary="add changes">
       <option name="closed" value="true" />

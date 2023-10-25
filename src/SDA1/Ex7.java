@@ -28,6 +28,7 @@ public class Ex7 {
             }
             currentArray[i] = sequences[i];
         }
+        System.out.println("Test");
     }
 
     public static int getNumberOfSequences (String word){
@@ -46,4 +47,5 @@ public class Ex7 {
         }
         return false;
     }
+
 }
