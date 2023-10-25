@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07180f16-efd3-408f-9854-c916aa3776fc" name="Changes" comment="" />
+    <list default="true" id="07180f16-efd3-408f-9854-c916aa3776fc" name="Changes" comment="add changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,14 +58,37 @@
       <workItem from="1698158720458" duration="658000" />
       <workItem from="1698176972335" duration="6270000" />
       <workItem from="1698224717236" duration="1089000" />
+      <workItem from="1698226767158" duration="444000" />
     </task>
+    <task id="LOCAL-00001" summary="add changes">
+      <option name="closed" value="true" />
+      <created>1698226994243</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698226994243</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="add changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
